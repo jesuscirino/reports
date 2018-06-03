@@ -1,14 +1,4 @@
 Autor/Author|Post|Acción/Action|Razón/Reason
 --- | --- | --- | ---
-[Usuario](steemit.com/@alvaromachete)|[Post](https://steemit.com/spanish/@alvaromachete/f-117-misterioso-avion-que-luego-de-gran-fama-esta-pasando-de-moda)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@alejorzu)|[Post](https://steemit.com/spanish/@alejorzu/el-gato-negro)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@franklindum22)|[Post](https://steemit.com/spanish/@franklindum22/isis-es-un-enemigo-de-venezuela-segun-los-medios-de-youtueb)|Sugerencia|Spam
-[Usuario](steemit.com/@deivid72)|[Post](https://steemit.com/story/@deivid72/civilizaciones-perdidas)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@germanaure)|[Post](https://steemit.com/spanish/@germanaure/miguel-fleta-el-hombre-y-el-mito-reportaje-fotografico)|Sugerencia|Copy Paste
-[Usuario](steemit.com/@rgas)|[Post](https://steemit.com/spanish/@rgas/que-es-el-bitcoin-la-reina-de-las-criptomonedas)|Sugerencia|Plagiarism
-[Usuario](steemit.com/@darinohe)|[Post](https://steemit.com/spanish/@darinohe/muchos-creen-que-el-talento-es-cuestion-de-suerte-iniciativa)|Sugerencia|Copy Paste
-[Usuario](steemit.com/@statis)|[Post](https://steemit.com/ciencia/@statis/20180526t053701942z-post)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@statis)|[Post](https://steemit.com/ciencia/@statis/20180527t223701758z-post)|Sugerencia|Plagiarism
-[Usuario](steemit.com/@swagrm)|[Post](https://steemit.com/spanish/@swagrm/solo-15-paises-reconocen-la-victoria-de-maduro)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@jolugo23)|[Post](https://steemit.com/sex/@jolugo23/sexo-o-tabu)|Sugerencia|Copy Paste
-[Usuario](steemit.com/@gabrieloob)|[Post](https://steemit.com/spanish/@gabrieloob/fabinho-es-nuevo-jugador-del-liverpool)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@alexipd)|[Post](https://steemit.com/spanish/@alexipd/aumento-de-tamano-de-la-prostata-hiperplasis-prostatica-benigna)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@materiapk)|[Post](https://steemit.com/spanish/@materiapk/por-que-la-luna-nos-acompana-cuando-andamos)|Sugerencia|Photoplagiarism
