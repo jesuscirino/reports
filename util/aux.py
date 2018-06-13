@@ -185,11 +185,15 @@ def get_body(init, top):
     for p in dic_b.keys():
         t = dic_b[p]['date']
         if t >= init  and t <= top:
-            #print (p.split('/')[3]) revisar links incompletos
-            body = body + '\n' + '[Usuario](steemit.com/' + p.split('/')[4] + \
-                    ')|[Post](' + p +')|Sugerencia|' + \
-                    dic_b[p]['reason']
+            #revisar links incompletos
+            #print (p.split('/')[3]) 
+            try:
+                body = body + '\n' + '[Usuario](steemit.com/' + p.split('/')[4] + \
+                        ')|[Post](' + p +')|Sugerencia|' + \
+                        dic_b[p]['reason']
             #print(dic_b[p]['date'])
+            except Exception as e:
+                print(e)
     return body
 def say(t):
     return t
