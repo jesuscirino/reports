@@ -69,7 +69,11 @@ def dump_history(name_raw_file):
                     x = x.strip('<')
                     x = x.strip('>')
                 list_urls = [x for x in lis if 'http' in x]
-                post  = list_urls[0]
+                try:
+                    post  = list_urls[0]
+                except Exception as e:
+                    print(e)
+                    print('linea 76 alguien reportó mal')
                 if post in dic_b.keys():
                     pass
                 else:

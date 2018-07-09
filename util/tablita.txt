@@ -1,42 +1,24 @@
 Autor/Author|Post|Acción/Action|Razón/Reason
 --- | --- | --- | ---
-[Usuario](steemit.com/@irvinghidalgo)|[Post](https://steemit.com/presentacion/@irvinghidalgo/mi-primera-ves)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@alejorzu)|[Post](https://steemit.com/spanish/@alejorzu/venezolana-deyna-castellanos-viajara-a-rusia-como-embajadora-del-mundial)|Sugerencia|Content Abuse
-[Usuario](steemit.com/@untitledvzla)|[Post](https://steemit.com/spanish/@untitledvzla/cuales-son-las-tabletas-mas-seguras-2018)|Sugerencia|Copy Paste
-[Usuario](steemit.com/@iridia)|[Post](https://steemit.com/introduceyourself/@iridia/como-hacer-una-boda-excepcional)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@pablokq)|[Post](https://steemit.com/photography/@pablokq/retrato-termal-2018-06-08-22-04-21)|Sugerencia|Spam
-[Usuario](steemit.com/@ucef12)|[Post](https://steemit.com/travel/@ucef12/the-most-dangerous-adventure-destinations-in-the-world)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@cosmicboy123)|[Post](https://steemit.com/spanish/@cosmicboy123/efemerides-del-mes-de-junio-de-2018-para-observadores-del-cielo-parte-1)|Sugerencia|Copy Paste
-[Usuario](steemit.com/@peterxixonex)|[Post](https://steemit.com/spanish/@peterxixonex/ninos-nis-moviles)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@yadievelys)|[Post](https://steemit.com/spanish/@yadievelys/cuando-las-luces-se-apagan)|Sugerencia|Plagiarism
-[Usuario](steemit.com/@teslaworld)|[Post](https://steemit.com/entertainment/@teslaworld/conozcan-a-antonov-225-el-avion-mas-grande-del-mundo)|Sugerencia|Content Abuse
-[Usuario](steemit.com/@fichajes)|[Post](https://steemit.com/fichajes/@fichajes/100-confirmado)|Sugerencia|Copy Paste
-[Usuario](steemit.com/@abrahamjoseg)|[Post](https://steemit.com/life/@abrahamjoseg/gamer-otro-tipo-de-persona)|Sugerencia|Plagiarism
-[Usuario](steemit.com/@wayneb)|[Post](https://steemit.com/health/@wayneb/5-mitos-comunes-sobre-el-envejecimiento)|Sugerencia|Plagiarism
-[Usuario](steemit.com/@nessaur)|[Post](https://steemit.com/fengshui/@nessaur/5shznj-feng-shui)|Sugerencia|Spam
-[Usuario](steemit.com/@forealife)|[Post](11)https://steemit.com/life/@forealife/100-sbd-authors-will-be-compensated-according-to-the-upvoting-contribution-event-92)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@chiminguito)|[Post](https://steemit.com/salud/@chiminguito/sintomas-de-cancer-que-las-mujeres-ignoran-cancer-symptoms-that-women-ignore)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@amtomrivas)|[Post](https://steemit.com/spanish/@amtomrivas/la-nasa-te-permite-explorar-20-anos-de-datos-de-observacion-de-la-tierra-nasa-allows-you-to-explore-20-years-of-earth)|Sugerencia|Plagiarism
-[Usuario](steemit.com/@jpirulo)|[Post](3)https://steemit.com/spanish/@jpirulo/wemark)|Sugerencia|Plagiarism
-[Usuario](steemit.com/@ecinerebagu)|[Post](https://steemit.com/spanish/@ecinerebagu/suicido-tiene-solucion)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@javiermurillo)|[Post](https://steemit.com/steemit/@javiermurillo/noche-en-steemit-ya-debo-dormir)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@melanieventura)|[Post](https://steemit.com/stem-espanol/@melanieventura/de-procrastinacion-esta-hecho-el-hombre)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@eldiariodenano)|[Post](https://steemit.com/spanish/@eldiariodenano/soy-un-adicto-como-me-libero-de-esto)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@marcosemh)|[Post](https://steemit.com/castellano/@marcosemh/vaiven-38abfe8e68718)|Sugerencia|Plagiarism
-[Usuario](steemit.com/@sabrina0512)|[Post](https://steemit.com/spanish/@sabrina0512/el-exito-depende-mas-de-la-personalidad-y-actitud-que-de-la-inteligencia)|Sugerencia|Plagiarism
-[Usuario](steemit.com/@levidas)|[Post](https://steemit.com/food/@levidas/left-or-right)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@juanvilla031)|[Post](https://steemit.com/spanish/@juanvilla031/perros-affenpinscher)|Sugerencia|Plagiarism
-[Usuario](steemit.com/@clemen93)|[Post](https://steemit.com/cryptocurrency/@clemen93/criptomonedas-que-son-y-como-conseguirlas)|Sugerencia|Copy Paste
-[Usuario](steemit.com/@samantablanco)|[Post](https://steemit.com/spanish/@samantablanco/tortuga-olivacea)|Sugerencia|Plagiarism
-[Usuario](steemit.com/@zonabitcoin)|[Post](https://steemit.com/facebook/@zonabitcoin/facebook-compartio-informacion-de-usuarios-con-empresas)|Sugerencia|Copy Paste
-[Usuario](steemit.com/@gonzalo.ruiz)|[Post](https://steemit.com/ciencia/@gonzalo.ruiz/20180609t053502144z-post)|Sugerencia|Spam
-[Usuario](steemit.com/@alejorzu)|[Post](https://steemit.com/venezuela/@alejorzu/crisis-de-estres-se-vuelven-frecuentes-en-millones-de-venezolanos)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@andres0221)|[Post](https://steemit.com/spanish/@andres0221/que-es-exactamente-esa-sensacion-de-cerebro-congelado)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@efemerides)|[Post](https://steemit.com/spanish/@efemerides/un-nuevo-dia#@cheetah/cheetah-re-efemeridesun-nuevo-dia)|Sugerencia|Copy Paste
-[Usuario](steemit.com/@wayneb)|[Post](https://steemit.com/health/@wayneb/4-posibles-efectos-secundarios-del-uso-de-esteroides-en-hombres)|Sugerencia|Plagiarism
-[Usuario](steemit.com/@margarivera)|[Post](https://steemit.com/spanish/@margarivera/fue-dificil-encontrar-hariana-para-realiza-unas-empanadas)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@geography)|[Post](https://steemit.com/ciencia/@geography/20180609t223102206z-post)|Sugerencia|Spam
-[Usuario](steemit.com/@josebolivar)|[Post](https://steemit.com/introduceyourself/@josebolivar/trabajo-venezuela)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@pedromanupla)|[Post](https://steemit.com/spanish/@pedromanupla/en-tus-manos)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@lndraxen)|[Post](https://steemit.com/spanish/@lndraxen/los-golden-state-se-consogran-campeones-de-la-nba#@eleyda78/re-lndraxen-los-golden-state-se-consogran-campeones-de-la-nba-20180609t200827988z)|Sugerencia|Plagiarism
-[Usuario](steemit.com/@nerdpedia)|[Post](https://steemit.com/film/@nerdpedia/jurassic-park-cumple-25-anos-se-adelanto-a-la-ciencia#@eleyda78/re-nerdpedia-jurassic-park-cumple-25-anos-se-adelanto-a-la-ciencia-20180609t182004307z)|Sugerencia|Copy Paste
+[Usuario](steemit.com/@yuly150109)|[Post](https://steemit.com/venezuela/@yuly150109/el-desayuno-de-mi-tierra)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@poroorooca)|[Post](https://steemit.com/animales/@poroorooca/como-cortarle-las-unas-a-tu-mascota)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@jotn12)|[Post](https://steemit.com/elpetro/@jotn12/el-petro-que-sera)|Sugerencia|Plagiarism
+[Usuario](steemit.com/@princesasnow)|[Post](https://steemit.com/spanish/@princesasnow/injusticias-de-mi-pais-venezuela-s-o-s-parte-i)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@ismar)|[Post](https://steemit.com/spanish/@ismar/flan-de-maiz-postre-venezolano)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@bricehector18)|[Post](https://steemit.com/guerra/@bricehector18/jagdpanther)|Sugerencia|Spam
+[Usuario](steemit.com/@carlsmart303)|[Post](https://steemit.com/travel/@carlsmart303/7he8ps-travel)|Sugerencia|Spam
+[Usuario](steemit.com/@viper160891)|[Post](https://steemit.com/photography/@viper160891/lucy-fernanda-the-evil-dog-2018-07-06-23-13-04)|Sugerencia|Tag Abuse
+[Usuario](steemit.com/@jotadiaz12)|[Post](https://steemit.com/openmic/@jotadiaz12/steemit-open-mic-week-92-canta-el-pueblo-con-septimacarta)|Sugerencia|Tag Abuse
+[Usuario](steemit.com/@jjuan1990)|[Post](https://steemit.com/poemas/@jjuan1990/28ak8t-poema)|Sugerencia|Plagiarism
+[Usuario](steemit.com/@oscurocactus)|[Post](https://steemit.com/spanish/@oscurocactus/subir-o-bajar---fotograf-a--osc-2018-6-5-20-18-40)|Sugerencia|Spam
+[Usuario](steemit.com/@grignol)|[Post](https://steemit.com/video/@grignol/happiness)|Sugerencia|Content Abuse
+[Usuario](steemit.com/@mysticalve)|[Post](https://steemit.com/poetry/@mysticalve/siento-como-la-depresion-regresa-a-mi-y-con-mas-maletas-para-quedarse-mas-tiempo)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@otorgio)|[Post](https://steemit.com/introduceyourself/@otorgio/juan-rivas-a-little-about-me-first-post)|Sugerencia|Tag Abuse
+[Usuario](steemit.com/@alexanderpelao)|[Post](https://steemit.com/spanish/@alexanderpelao/noticine-split-o-fragmentado)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@yudithluz)|[Post](https://steemit.com/food/@yudithluz/arepa-es-igual-a-venezuela)|Sugerencia|Plagiarism
+[Usuario](steemit.com/@gusfer63)|[Post](https://steemit.com/spanish/@gusfer63/son-lo-mismo-un-viaje-de-estudios-y-un-viaje-de-egresados-para-la-ley-argentina-gustavo-n-fernandez-turismo-y-derecho)|Sugerencia|Content Abuse
+[Usuario](steemit.com/@trucogonzalez)|[Post](https://steemit.com/news/@trucogonzalez/mira-cuanto-ganan-tus-musicos-favoritos-al-ano)|Sugerencia|Plagiarism
+[Usuario](steemit.com/@reggaecumanes)|[Post](https://steemit.com/cervantes/@reggaecumanes/luna-cumana-or-bossa-nova-or-or-enjoit-it)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@alexisss1928)|[Post](https://steemit.com/cervantes/@alexisss1928/cosas-que-no-deberian-estar-en-una-casa-con-diferentes-signos-del-zodiaco)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@derrotero)|[Post](https://steemit.com/spanish/@derrotero/destinos-mochileros)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@proverbios)|[Post](https://steemit.com/spanish/@proverbios/the-role-of-women-in-society-and-as-a-contributor-to-social-change)|Sugerencia|Tag Abuse
