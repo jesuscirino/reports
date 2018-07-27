@@ -1,4 +1,4 @@
-
+# -*- coding: utf-8 -*-
 import pickle
 import argparse
 import os
@@ -7,10 +7,10 @@ import datetime
 import re
 from os import walk, getcwd, path, scandir
 import asyncio
-import steem
+#import steem
 import time
-nodes = ['https://gtg.steem.house:8090','https://seed.bitcoiner.me']
-s = steem.Steem(nodes, keys=['5JvunnDNKAUcQbMF3dsKkaNRAQBSJ81wU6QKpkEfPDXUY1hhte8'])
+#nodes = ['https://gtg.steem.house:8090','https://seed.bitcoiner.me']
+#s = steem.Steem(nodes, keys=['PK_de_lince'])
 
 
 TIMEFORMAT = '%Y-%m-%d-%H-%M-%S'
@@ -86,7 +86,7 @@ def dump_history(name_raw_file):
         with open(now_file,'wb') as f:
             pickle.dump(dic_b, f)
 
-def comment(init, top):
+'''def comment(init, top):
     """broadcast comments to post in lince reports"""
     if len(init) < 9:
         init          = '20' + init + '-00-00-00'
@@ -106,74 +106,75 @@ def comment(init, top):
             print(dic_b[p]['date'])
             print(p)
             if dic_b[p]['reason'] == 'Tag Abuse':
-                body = '''Recomendación, usa el tag spanish cuando el contenido sea escrito de manera parcial o total en español, el tag steem cuando tu publicación habla de la criptomoneda, el tag steemit cuando hables de la plataforma, el tag introduceyourself para tu primer publicación en la que te presentas y el tag photography cuando las fotografías sean de tu propiedad. Todo esto es para evitar publicar contenido clasificado como plagio o abuso en el futuro.
+                body = """Recomendación, usa el tag spanish cuando el contenido sea escrito de manera parcial o total en español, el tag steem cuando tu publicación habla de la criptomoneda, el tag steemit cuando hables de la plataforma, el tag introduceyourself para tu primer publicación en la que te presentas y el tag photography cuando las fotografías sean de tu propiedad. Todo esto es para evitar publicar contenido clasificado como plagio o abuso en el futuro.
                 
 Steemit es una plataforma en la que se recompensa el trabajo original y propio. Si existe alguna duda sobre cómo puedes evitar el plagio y abuso favor de leer las publicaciones informativas de @lince.
                 
-Para cualquier aclaración los medios de comunicación son por correo a lince.steemit@gmail.com o en los chats de discord y steemit.chat'''
+Para cualquier aclaración los medios de comunicación son por correo a lince.steemit@gmail.com o en los chats de discord y steemit.chat"""
             elif dic_b[p]['reason'] == 'Photoplagiarism':
                 try:
-                    body = '''Te sugerimos leer la siguiente publicación para evitar publicar contenido clasificado como plagio o abuso en el futuro: [Plagio de imágenes, ¿cómo evitarlo?](https://steemit.com/lince/@lince/por-que-debemos-incluir-las-fuentes-de-las-imagenes-que-tomamos-de-internet).
+                    body = """Te sugerimos leer la siguiente publicación para evitar publicar contenido clasificado como plagio o abuso en el futuro: [Plagio de imágenes, ¿cómo evitarlo?](https://steemit.com/lince/@lince/por-que-debemos-incluir-las-fuentes-de-las-imagenes-que-tomamos-de-internet).
 
-No tiene nada de malo apoyarse de contenido de internet, solo procura citar la fuente de donde se obtuvo la imagen o fotografía, que en este caso se encuentra [Aquí](''' +dic_b[p]['proof'][0]+''').
+No tiene nada de malo apoyarse de contenido de internet, solo procura citar la fuente de donde se obtuvo la imagen o fotografía, que en este caso se encuentra [Aquí](""" +dic_b[p]['proof'][0]+""").
 
 Esto no es una bandera, es una recomendación para que leas el post de @lince y en el futuro evites cometer algún tipo de abuso.
                     
 Steemit es una plataforma en la que se recompensa el trabajo original y propio. Si existe alguna duda sobre cómo puedes evitar el plagio y abuso favor de leer las publicaciones informativas de @lince.
                     
-Para cualquier aclaración los medios de comunicación son por correo a lince.steemit@gmail.com o en los chats de discord y steemit.chat'''
+Para cualquier aclaración los medios de comunicación son por correo a lince.steemit@gmail.com o en los chats de discord y steemit.chat"""
                 except:
-                    body = '''Te sugerimos leer la siguiente publicación para evitar publicar contenido clasificado como plagio o abuso en el futuro: [Plagio textual, parcial o total de contenido ajeno](https://steemit.com/spanish/@lince/diferencia-entre-plagiar-y-usar-contenido-de-internet-aprende-la-diferencia).
+                    body = """Te sugerimos leer la siguiente publicación para evitar publicar contenido clasificado como plagio o abuso en el futuro: [Plagio textual, parcial o total de contenido ajeno](https://steemit.com/spanish/@lince/diferencia-entre-plagiar-y-usar-contenido-de-internet-aprende-la-diferencia).
                 
-No tiene nada de malo apoyarse de contenido de internet, solo procura citar la fuente de donde se obtuvo la información, que en este caso se encuentra [Aquí](''' +'google.com'+''').
+No tiene nada de malo apoyarse de contenido de internet, solo procura citar la fuente de donde se obtuvo la información, que en este caso se encuentra [Aquí](""" +'google.com'+""").
 
 Esto no es una bandera, es una recomendación para que leas el post de @lince y en el futuro evites cometer algún tipo de abuso.
                 
 Steemit es una plataforma en la que se recompensa el trabajo original y propio. Si existe alguna duda sobre cómo puedes evitar el plagio y abuso favor de leer las publicaciones informativas de @lince.
 
 Para cualquier aclaración los medios de comunicación son por correo a lince.steemit@gmail.com o en los chats de discord y steemit.chat.
-                '''
+                """
 
 
-            elif dic_b[p]['reason'] == 'Plagiarism':
+            elif dic_b[p]["reason"] == "Plagiarism":
                 try:
-                    body = '''Te sugerimos leer la siguiente publicación para evitar publicar contenido clasificado como plagio o abuso en el futuro: [Plagio textual, parcial o total de contenido ajeno](https://steemit.com/spanish/@lince/diferencia-entre-plagiar-y-usar-contenido-de-internet-aprende-la-diferencia).
+                    body = """Te sugerimos leer la siguiente publicación para evitar publicar contenido clasificado como plagio o abuso en el futuro: [Plagio textual, parcial o total de contenido ajeno](https://steemit.com/spanish/@lince/diferencia-entre-plagiar-y-usar-contenido-de-internet-aprende-la-diferencia).
                 
-No tiene nada de malo apoyarse de contenido de internet, solo procura citar la fuente de donde se obtuvo la información, que en este caso se encuentra [Aquí](''' +dic_b[p]['proof'][0]+''').
+No tiene nada de malo apoyarse de contenido de internet, solo procura citar la fuente de donde se obtuvo la información, que en este caso se encuentra [Aquí](""" +dic_b[p]["proof"][0]+""").
 
 Esto no es una bandera, es una recomendación para que leas el post de @lince y en el futuro evites cometer algún tipo de abuso.
                 
 Steemit es una plataforma en la que se recompensa el trabajo original y propio. Si existe alguna duda sobre cómo puedes evitar el plagio y abuso favor de leer las publicaciones informativas de @lince.
 
 Para cualquier aclaración los medios de comunicación son por correo a lince.steemit@gmail.com o en los chats de discord y steemit.chat.
-                '''
+                """
                 except:
-                     body = '''Te sugerimos leer la siguiente publicación para evitar publicar contenido clasificado como plagio o abuso en el futuro: [Plagio textual, parcial o total de contenido ajeno](https://steemit.com/spanish/@lince/diferencia-entre-plagiar-y-usar-contenido-de-internet-aprende-la-diferencia).
+                     body = """Te sugerimos leer la siguiente publicación para evitar publicar contenido clasificado como plagio o abuso en el futuro: [Plagio textual, parcial o total de contenido ajeno](https://steemit.com/spanish/@lince/diferencia-entre-plagiar-y-usar-contenido-de-internet-aprende-la-diferencia).
                 
-No tiene nada de malo apoyarse de contenido de internet, solo procura citar la fuente de donde se obtuvo la información, que en este caso se encuentra [Aquí](''' +'google.com'+''').
+No tiene nada de malo apoyarse de contenido de internet, solo procura citar la fuente de donde se obtuvo la información, que en este caso se encuentra [Aquí](""" +"google.com"+""").
 
 Esto no es una bandera, es una recomendación para que leas el post de @lince y en el futuro evites cometer algún tipo de abuso.
                 
 Steemit es una plataforma en la que se recompensa el trabajo original y propio. Si existe alguna duda sobre cómo puedes evitar el plagio y abuso favor de leer las publicaciones informativas de @lince.
 
 Para cualquier aclaración los medios de comunicación son por correo a lince.steemit@gmail.com o en los chats de discord y steemit.chat.
-                '''
+                """
 
             elif dic_b[p]['reason'] == 'Copy Paste':
-                body = '''El contenido de esta publicación puede estar relacionada con algún tipo de plagio o abuso relacionado con Plagio total o parcial de contenido ajeno. Te sugerimos leer la siguiente publicación para evitar publicar contenido clasificado como plagio o abuso en el futuro: [Plagio textual, parcial o total de contenido ajeno](https://steemit.com/spanish/@lince/diferencia-entre-plagiar-y-usar-contenido-de-internet-aprende-la-diferencia).
+                body = """El contenido de esta publicación puede estar relacionada con algún tipo de plagio o abuso relacionado con Plagio total o parcial de contenido ajeno. Te sugerimos leer la siguiente publicación para evitar publicar contenido clasificado como plagio o abuso en el futuro: [Plagio textual, parcial o total de contenido ajeno](https://steemit.com/spanish/@lince/diferencia-entre-plagiar-y-usar-contenido-de-internet-aprende-la-diferencia).
                 
-No tiene nada de malo apoyarse de contenido de internet, solo procura citar la fuente de donde se obtuvo la información, que en este caso se encuentra [Aquí](''' +dic_b[p]['proof'][0]+''').
+No tiene nada de malo apoyarse de contenido de internet, solo procura citar la fuente de donde se obtuvo la información, que en este caso se encuentra [Aquí](""" +dic_b[p]['proof'][0]+""").
 
 Esto no es una bandera, es una recomendación para que leas el post de @lince y en el futuro evites cometer algún tipo de abuso.
                 
 Steemit es una plataforma en la que se recompensa el trabajo original y propio. Si existe alguna duda sobre cómo puedes evitar el plagio y abuso favor de leer las publicaciones informativas de @lince.
 
-Para cualquier aclaración los medios de comunicación son por correo a lince.steemit@gmail.com o en los chats de discord y steemit.chat.'''
+Para cualquier aclaración los medios de comunicación son por correo a lince.steemit@gmail.com o en los chats de discord y steemit.chat."""
             post = steem.post.Post(p, s)
             s.commit.post('',body,'lince', reply_identifier=post.identifier)
             print(body)
             print('xx'*10)
             time.sleep(30)
+            '''
 def get_body(init, top):
     """return a report with markdown format for steemit"""
     init          = '20' + init + '-00-00-00'
