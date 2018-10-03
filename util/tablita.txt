@@ -1,25 +1,22 @@
 Autor/Author|Post|Acción/Action|Razón/Reason
 --- | --- | --- | ---
-[Usuario](steemit.com/@deniree-celis)|[Post](https://steemit.com/spanish/@deniree-celis/cuando-enganchas-tu-vida-a-la-mia-or-capitulo-1)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@veronicabracho)|[Post](https://steemit.com/spanish/@veronicabracho/la-arcilla-roja)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@alejog04)|[Post](https://steemit.com/spanish/@alejog04/arepas-de-harina-de-trigo)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@jorgekohen)|[Post](https://steemit.com/steemchurch/@jorgekohen/i-don-t-understand-all-this-is-happening-to-me#@henryn2020/re-jorgekohen-i-don-t-understand-all-this-is-happening-to-me-20180712t183147483z)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@sharifanamin)|[Post](https://steemit.com/spanish/@sharifanamin/hay-algo-muy-especial-en-ese-nombre)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@monasterios99)|[Post](https://steemit.com/spanish/@monasterios99/el-tapon-del-diablo-darien-panama-entrevista-historia-real-ii)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@alternativity)|[Post](https://steemit.com/photography/@alternativity/colorchallenge-miercoles-de-amarillo)|Sugerencia|Copy Paste
-[Usuario](steemit.com/@antonioprado)|[Post](https://steemit.com/noticia/@antonioprado/esta-es-la-razon-por-la-cual-los-vecindarios-tienen-convenios-masacre-de-cocodrilos-300-muertos)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@almg2007)|[Post](https://steemit.com/spanish/@almg2007/sorprendentes-los-estadios-del-mundial-qatar-2022)|Sugerencia|Copy Paste
-[Usuario](steemit.com/@videopawer)|[Post](https://steemit.com/entertainment/@videopawer/nuevo-trailer-de-bohemian-rhapsody)|Sugerencia|Content Abuse
-[Usuario](steemit.com/@marianelamendoza)|[Post](https://steemit.com/love/@marianelamendoza/boda-de-papel)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@misya-syakira)|[Post](https://steemit.com/art/@misya-syakira/artwork-on-hand-568591a2ff959)|Sugerencia|Spam
-[Usuario](steemit.com/@gefrinchami)|[Post](https://steemit.com/steemit/@gefrinchami/emprender-en-venezuela-si-es-posible)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@margaritarz18)|[Post](https://steemit.com/spanish/@margaritarz18/canutillos-de-chistorra)|Sugerencia|Plagiarism
-[Usuario](steemit.com/@fichajes)|[Post](https://steemit.com/sports/@fichajes/segn-la-fifa-estos-son-las-5-grades-sorpresas-de-este-mundial)|Sugerencia|Spam
-[Usuario](steemit.com/@yizus)|[Post](https://steemit.com/comedyopenmicespanol/@yizus/6jsf9c-comedy-open-mic-espanol-ronda-15)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@maestroudo)|[Post](https://steemit.com/spanish/@maestroudo/strykz-the-card-for-all-football-fans)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@dreamworld346)|[Post](https://steemit.com/life/@dreamworld346/water-lily-flower-description-and-beauty)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@lilo21)|[Post](https://steemit.com/comedyopenmicespanol/@lilo21/comedy-open-mic-espanol-ronda-15-amores-por-la-redes-sociales)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@jorlando)|[Post](https://steemit.com/spanish/@jorlando/6kdxkq-tirinta-y-nueve-nuevas-caras)|Sugerencia|Photoplagiarism
-[Usuario](steemit.com/@ragt13)|[Post](https://steemit.com/spanish/@ragt13/de-lo-sencillo-lo-extraordinario-2018-07-26-12-45-32)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@michelem15)|[Post](https://steemit.com/photography/@michelem15/la-princesa-moderna-salio-al-balcon-poema)|Sugerencia|Tag Abuse
-[Usuario](steemit.com/@educacionfinan)|[Post](https://steemit.com/spanish/@educacionfinan/banco-internacional-de-pagos-las-criptomonedas-no-pueden-funcionar-como-dinero)|Sugerencia|Content Abuse
+[Usuario](steemit.com/@edgarmarval)|[Post](https://steemit.com/spanish/@edgarmarval/el-arbol-de-higuerote-o-matapalo)|Sugerencia|Tag Abuse
+[Usuario](steemit.com/@pokoto89)|[Post](https://steemit.com/spanish/@pokoto89/la-embutidora)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@agridulce)|[Post](https://steemit.com/cervantes/@agridulce/soy-realmente-pesima-con-los-titulos-de-mis-textos-asi-que-los-invito-a-colocarle-el-que-gusten)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@dmercadoelis)|[Post](https://steemit.com/spanish/@dmercadoelis/caracas-ante-meridiem)|Sugerencia|Tag Abuse
+[Usuario](steemit.com/@valbonyorni)|[Post](https://steemit.com/kids/@valbonyorni/crecere)|Sugerencia|Spam
+[Usuario](steemit.com/@cienciatips)|[Post](https://steemit.com/food/@cienciatips/la-monstruosidad--2018-10-01-13-25-53)|Sugerencia|Tag Abuse
+[Usuario](steemit.com/@efraxd)|[Post](https://steemit.com/vzla/@efraxd/salto-angel-turismo-tourism)|Sugerencia|Tag Abuse
+[Usuario](steemit.com/@carlos.arteaga)|[Post](https://steemit.com/life/@carlos.arteaga/belgica)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@nesdanhervar)|[Post](https://steemit.com/steemit/@nesdanhervar/tremendo-genio)|Sugerencia|Tag Abuse
+[Usuario](steemit.com/@jeanglou)|[Post](https://steemit.com/sc-v/@jeanglou/the-greatest-treasure-of-man)|Sugerencia|Tag Abuse
+[Usuario](steemit.com/@giobarco)|[Post](https://steemit.com/busy/@giobarco/that-s-how-you-get-the-undesirables)|Sugerencia|Copy Paste
+[Usuario](steemit.com/@deliteramente)|[Post](https://steemit.com/spanish/@deliteramente/la-universidad-de-la-vida)|Sugerencia|Tag Abuse
+[Usuario](steemit.com/@gkervin99)|[Post](https://steemit.com/spanish/@gkervin99/tatuajes-3-3)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@ziguaraya)|[Post](https://steemit.com/bitcoin/@ziguaraya/mineros-de-criptomonedas-del-mundo)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@kimo0)|[Post](https://steemit.com/photography/@kimo0/disfrutando-2018-10-02-17-59-12)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@enriquearroyav1)|[Post](https://steemit.com/vzla/@enriquearroyav1/medanos-de-coro)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@lumar0260)|[Post](https://steemit.com/spanish/@lumar0260/steemaniaticos-de-vuelta)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@dranuvar)|[Post](https://steemit.com/freewrite/@dranuvar/distancia-spanish-freewrite-131)|Sugerencia|Photoplagiarism
+[Usuario](steemit.com/@memesvzla)|[Post](https://steemit.com/spanish/@memesvzla/gana-dolares-con-steemit-dislorth)|Sugerencia|Plagiarism
+[Usuario](steemit.com/@brodyce)|[Post](https://steemit.com/introduceyourself/@brodyce/hola-un-placer-saludarles-y-bienvenidos-a-mi-creacion)|Sugerencia|Photoplagiarism
